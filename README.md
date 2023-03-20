@@ -1,23 +1,29 @@
-# MLDA DLW Hackathon 2022
 
-![title_logo](assets/title_logo.png?raw=true)
+AI-powered voice assistant to assist the visually impaired in their daily tasks
 
-## Introduction
+AI Powered Vioice Assistant for Who are Blind or Have Low-Vision
 
-This repository is a submission for MLDA Deep Learning Week Hackathon 2022 held on 30 September 2022 - 3 October 2022.
+be my eyes
 
-This project is created by:
+power to the 253 million people who are blind or have low vision globally.
+Image to text technology
 
-- Dhairya Rungta [(@dhairyarungta)](https://github.com/dhairyarungta)
-- Joshua Adrian Cahyono [(@JvThunder)](https://github.com/JvThunder)
-- Karan Andrade [(@kj-andrade)](https://github.com/kj-andrade)
-- Michael Andrew Chan [(@michac789)](https://github.com/michac789)
+The tool can offer suggestions for recipes based on the contents of a user's refrigerator, for example, and provide a step-by-step guide on how to make them.
 
-## Project Overview
+Features:
+Detecting 80 different categorical object types with their confidence level
+Priority-based detection
+Distance prediction & scaling algorithm
+Mobile phone activated camera for various items
+Speech-activated mode selection
+Multi-threading usage for asynchronous voice warnings and feedbacks
 
-### General Description
+Modes:
+Aware mode: continuously speak out loud 3 items with the topmost priority
+Warn mode: only shout out warnings if any item is too close based on priority
+Search mode: focus on searching a particular item until it is found
 
-`FIX6DSENSE.AI` is an AI-Powered real-time virtual assistant that enables the visually impaired to see the world by hearing.
+
 
 ### Features
 
