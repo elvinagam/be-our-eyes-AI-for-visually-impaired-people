@@ -10,6 +10,20 @@ Image to text technology
 
 The tool can offer suggestions for recipes based on the contents of a user's refrigerator, for example, and provide a step-by-step guide on how to make them.
 
+> Quick Read
+
+> Scan documents
+
+> Currency scanner & counter
+
+> Barcode scanning
+
+
+[1st] (![image](https://user-images.githubusercontent.com/100111556/226334984-d1d06b12-546d-413b-8522-c17459381ded.png)
+
+
+[2nd] (![image](https://user-images.githubusercontent.com/100111556/226335113-b913e0bd-55c7-4520-89c7-02fc601686a7.png)
+
 Features:
 Detecting 80 different categorical object types with their confidence level
 Priority-based detection
